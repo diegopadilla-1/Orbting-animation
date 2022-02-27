@@ -7,3 +7,4 @@ As for now 11/09/2021, the whole animation works using the constant acceleration
 The display of the animation itself is not my major concern, because the positions of each particle each frame could be easily exported to a file and then imported to a 3D animation software to produce a more pleasing looking video (Houdini could be an option), but before that I want to obtain a much more complex and accurate animation. 
 
 ** New code uploaded with moving stars with respective satellites and all forces accounted for.
+Important:  In order to get a good sense of the animation, save it to a video or gif (This might take a while depending on the number of frames and particles).
